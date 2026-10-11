@@ -64,5 +64,3 @@ Start of every session: read your `MEMORY.md` index, then any note relevant to t
 End of every session: update your notes and index with new learnings and decisions, including relevant front-end conventions, integration constraints, and unresolved dependencies. Revise or remove entries the session has made untrue rather than only appending. Once a note's subject is resolved and recorded in `CLAUDE.md`, delete the note and its index line; keep a file's name honest to its content.
 
 Keep entries concise and specific to the project. Don't duplicate what `CLAUDE.md` already records. Distinguish confirmed decisions from assumptions and open questions, and never store secrets or sensitive user data.
-
-Keep entries concise and specific to the project. Don't duplicate what `CLAUDE.md` already records. Distinguish confirmed decisions from assumptions and open questions, and never store secrets or sensitive user data.
