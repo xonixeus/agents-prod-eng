@@ -1,8 +1,8 @@
-# DevSecOps AI Agents
+# Production & Engineering Agents
 
-Reusable AI agent profiles for software development, with clear responsibilities, explicit boundaries, and project-specific memory.
+Reusable AI agent profiles for the Production & Engineering Department, with clear responsibilities, explicit boundaries, and project-specific memory.
 
-The collection currently includes five specialists: **Beck** for back-end development, **Faye** for front-end development, **Uma** for UX/UI design, **Sophie** for internal technical writing, and **Paige** for product technical writing. Together, they support the design, development, and documentation portions of a broader DevSecOps workflow.
+The collection currently includes five specialists: **Beck** for back-end development, **Faye** for front-end development, **Uma** for UX/UI design, **Sophie** for internal technical writing, and **Paige** for product technical writing. Together, they support the department’s design, development, and documentation work.
 
 ## Meet the Agents
 
